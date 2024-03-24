@@ -1,0 +1,12 @@
+{
+  "name": "transactionutxos",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "checks for sufficient total value for inputUTXOs and outputUTXOs",
+  "main": "Transaction.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "legendjawad",
+  "license": "ISC"
+}
